@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <catalog category="Technical Books">
+        <book>
+            <ISBN>ABC123456</ISBN>
+            <author>Peter McGrath</Author>
+            <title>Mechanical Engineering for Good Students</title>
+        </book>
+
+        <book>
+            <ISBN>QWE456321</ISBN>
+            <author>Gerard Johnson</Author>
+            <title>Technical Guide for XML Creation</title>
+        </book>
+
+    <catalog category="Cookery Books">
+         <book>
+            <ISBN>GKL498562</ISBN>
+            <author>Amanda Jones</Author>
+            <title>Easy way to Cook a Pumpkin</title>
+        </book>
+
+        <book>
+            <ISBN>FKL461379</ISBN>
+            <author>Tom Loger</Author>
+            <title>5 Minute Miracle Soup</title>
+        </book>
+</library>
