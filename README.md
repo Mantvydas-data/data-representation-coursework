@@ -1,6 +1,6 @@
 # data-representation-coursework
 <br>
-<h2 style="text-align: center;">ATU Data Representation Coursework Exercises</h2>
+<h2 style="text-align: center;">ATU Data Representation Coursework</h2>
 
 Weekly tasks for the module's CA:
 
